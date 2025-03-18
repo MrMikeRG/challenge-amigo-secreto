@@ -27,6 +27,7 @@ Aquí puedes ver cómo funciona la aplicación:
 1️⃣ **Clona el repositorio:**  
 Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio:
   git clone https://github.com/MrMikeRG/challenge-amigo-secreto
+  
 2️⃣ **Abre el archivo index.html en tu navegador.** 
 Puedes hacer doble clic en el archivo o abrirlo directamente en tu navegador para ver la aplicación en acción.
 
